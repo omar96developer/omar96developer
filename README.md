@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [TodoList_JQuery](https://github.com/omar96developer/TodoList_JQuery.git)
 
-- 🌱 I’m currently learning **JQuery,React**
+- 🌱 I’m currently learning **JQuery, React**
 
 - 📫 How to reach me **omar996@outlook.it**
 
