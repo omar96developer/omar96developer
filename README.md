@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar96developer&label=Profile%20views&color=0e75b6&style=flat" alt="omar96developer" /> </p>
 
-- 🔭 I’m currently working on [TodoList_JQuery](https://github.com/omar96developer/TodoList_JQuery.git)
+- 🔭 I’m currently working on [NoteApp_JQuery](https://github.com/omar96developer/NoteApp)
 
 - 🌱 I’m currently learning **JQuery**
 
