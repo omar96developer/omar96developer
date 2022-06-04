@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [NoteApp_JQuery](https://github.com/omar96developer/NoteApp)
 
-- 🌱 I’m currently learning **JQuery**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **omar996@outlook.it**
 
